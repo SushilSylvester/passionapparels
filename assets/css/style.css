@@ -5923,6 +5923,15 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
     z-index: -1;
 }
 
+.mask-bg1 {
+    position: absolute;
+    top: 0;
+    width: calc(70% + 20px);
+    height: 100%;
+    background-color: #090909;
+    z-index: -1;
+}
+
 .v-light .mask-bg {
     background-color: #e6e6e6;
 }

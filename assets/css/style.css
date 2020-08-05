@@ -4877,6 +4877,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 /* Next/Previous navigation Blog */
 
 /* Next/Previous Page */
+#label{
+    font-size: 20px;
+    text-transform: none;
+    font-weight: 200;
+}
+
 
 .contact-up {
     position: relative;
@@ -7077,7 +7083,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
     left: 15px;
     right: 15px;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.1);
     -webkit-transform: scale(1.5);
     -ms-transform: scale(1.5);
     transform: scale(1.5);

@@ -289,11 +289,11 @@
 }
 
 [data-overlay="4"]:before {
-    opacity: 0.4;
+    opacity: 0.1;
 }
 
 [data-overlay="5"]:before {
-    opacity: 0.5;
+    opacity: 0.1;
 }
 
 [data-overlay="6"]:before {

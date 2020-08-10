@@ -7181,6 +7181,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
     margin: auto;
     text-align: center;
     margin-top: 15px;
+
 }
 
 .our-work .slick-dots li {
@@ -7214,7 +7215,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
     line-height: 0;
     display: block;
     width: 20px;
-    height: 2px;
+    height: 4px;
     padding: 0;
     cursor: pointer;
     color: transparent;
@@ -8637,7 +8638,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 [data-dsn-col="2"] .slick-slider .slick-dots li {
     position: relative;
     display: inline-block;
-    height: 2px;
+    height: 5px;
     margin: 0 5px;
     padding: 0;
     cursor: pointer;

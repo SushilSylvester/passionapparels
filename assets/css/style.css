@@ -3432,7 +3432,7 @@ body.hamburger-menu .header-top {
     position: absolute;
     width: 100%;
     max-width: 2560px;
-    padding: 22px 50px;
+    padding: 22px 50px 22px 0px;
     margin: auto;
 }
 
@@ -3444,7 +3444,7 @@ body.hamburger-menu .header-top {
 
 @media only screen and (max-width: 575px) {
     .header-top .header-container {
-        padding: 20px 15px;
+        padding: 20px 15px 20px 0px;
     }
 }
 
@@ -3462,7 +3462,7 @@ body.hamburger-menu .header-top {
 }
 
 .header-top .header-container .logo img {
-    width: 250px;
+    width: 200px;
 
 }
 

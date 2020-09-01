@@ -3454,7 +3454,7 @@ body.hamburger-menu .header-top {
     pointer-events: auto;
     float: left;
     z-index: 99999;
-    top: -50px;
+    left: 50px;
 }
 
 .header-top .header-container .logo.dark_logo {
@@ -3462,7 +3462,17 @@ body.hamburger-menu .header-top {
 }
 
 .header-top .header-container .logo img {
-    width: 200px;
+    width: 150px;
+
+}
+
+ 
+@media only screen and (min-width: 200px) and (max-width: 670px) {
+ 
+.header-top .header-container .logo img {
+     width: 50px;
+    
+}
 
 }
 
